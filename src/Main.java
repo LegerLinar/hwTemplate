@@ -14,3 +14,7 @@ public class Main {
 //        ... // Пишем код для задачи 2
     }
 }
+
+// Scanner class import and use 
+import java.util.Scanner;
+			Scanner scanner = new Scanner(System.in);
